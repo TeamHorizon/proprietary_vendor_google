@@ -39,9 +39,9 @@ PRODUCT_COPY_FILES += \
     vendor/google/marlin/proprietary/lib/lib-imsvtutils.so:system/lib/lib-imsvtutils.so \
     vendor/google/marlin/proprietary/lib/libaptXHD_encoder.so:system/lib/libaptXHD_encoder.so \
     vendor/google/marlin/proprietary/lib/libaptX_encoder.so:system/lib/libaptX_encoder.so \
-    vendor/google/marlin/proprietary/lib/librcc.so:system/lib/librcc.so \
     vendor/google/marlin/proprietary/lib/libdmengine.so:system/lib/libdmengine.so \
     vendor/google/marlin/proprietary/lib/libdmjavaplugin.so:system/lib/libdmjavaplugin.so \
+    vendor/google/marlin/proprietary/lib/librcc.so:system/lib/librcc.so \
     vendor/google/marlin/proprietary/lib64/lib-imsvideocodec.so:system/lib64/lib-imsvideocodec.so \
     vendor/google/marlin/proprietary/lib64/lib-imsvt.so:system/lib64/lib-imsvt.so \
     vendor/google/marlin/proprietary/lib64/lib-imsvtextutils.so:system/lib64/lib-imsvtextutils.so \
